@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="13px" viewBox="0 0 119 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/ico/lines</title>
+    <desc>Created with Sketch.</desc>
+    <g id="assets/ico/lines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#231F20" id="skuares">
+            <g transform="translate(0.751491, 0.783439)">
+                <polygon id="linia" transform="translate(59.017086, 10.050557) rotate(-270.000000) translate(-59.017086, -10.050557) " points="57.1830904 -48.718021 60.8510825 -48.718021 60.8510825 68.819134 57.1830904 68.819134"></polygon>
+                <polygon id="linia" transform="translate(26.498509, 2.050557) rotate(-270.000000) translate(-26.498509, -2.050557) " points="24.6645129 -13.1994435 28.332505 -13.1994435 28.332505 17.3005565 24.6645129 17.3005565"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
